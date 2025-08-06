@@ -1,3 +1,10 @@
+# Instructions
+Run each program with python {file name}
+
+The benchmark map can be chosen by changing the num variable near the bottom of each script.
+The start and end point can also be configured here.
+
+
 # RRT Tree Creation
 https://github.com/user-attachments/assets/80e33e9d-a2da-4c1f-810e-ed56bd3f8140
 
